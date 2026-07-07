@@ -4,20 +4,20 @@
   "title": "Explain why Typora shortcuts don’t work in Obsi...",
   "titleGenerationStatus": "success",
   "createdAt": 1783049573164,
-  "updatedAt": 1783389142247,
-  "lastResponseAt": 1783389142247,
+  "updatedAt": 1783389231517,
+  "lastResponseAt": 1783389231517,
   "sessionId": "3d5e50cf-67c4-40d3-bde4-c91d24e376b6",
   "providerState": {
     "providerSessionId": "3d5e50cf-67c4-40d3-bde4-c91d24e376b6"
   },
   "usage": {
     "model": "haiku",
-    "inputTokens": 618,
+    "inputTokens": 41109,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 36920,
+    "cacheReadInputTokens": 0,
     "contextWindow": 200000,
-    "contextTokens": 37538,
-    "percentage": 19,
+    "contextTokens": 41109,
+    "percentage": 21,
     "contextWindowIsAuthoritative": true
   }
 }
